@@ -22,6 +22,7 @@ const oppositeWords: OppositeWordsType = {
   "Give": "Take",
   "Happy": "Sad",
   "Hard": "Soft",
+  "Hard": "Easy",
   "Healthy": "Sick",
   "Heavy": "Light",
   "High": "Low",
